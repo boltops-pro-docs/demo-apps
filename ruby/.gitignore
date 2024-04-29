@@ -1,0 +1,5 @@
+# Ignoring Gemfile.lock so we'll always test latest gems
+# Note: You probably want to not ignore Gemfile.lock for your projects
+# The gitignore is in this parent folder so if you're copying the subfolders it'll
+# wont ignore the Gemfile.lock
+Gemfile.lock
